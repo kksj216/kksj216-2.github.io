@@ -6,8 +6,6 @@ title: Test  Post
 
 feature: "assets/img/mount.jpg"
 
-color: yellow
-
 tags: [Test]
 
 ---
