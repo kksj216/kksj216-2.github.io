@@ -5,6 +5,7 @@ title: Test  Post
 feature: "assets/img/mount.jpg"
 tags: [Test, git]
 author: kksj216
+excerpt_separator: <!--more-->
 ---
 
 # First Post 
