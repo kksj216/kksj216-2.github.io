@@ -4,7 +4,7 @@ layout: post
 title: Test  Post
 feature: "assets/img/mount.jpg"
 tags: [Test, git]
-author: Sujin KWon
+author: sylhare
 ---
 
 # First Post 
