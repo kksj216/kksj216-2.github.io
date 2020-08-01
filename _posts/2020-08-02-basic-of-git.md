@@ -73,7 +73,7 @@ Github은 Git을 사용하는 프로젝트를 지원하는 웹호스팅 서비�
 
 - __git master branch_name__: branch에서 작업을 끝내고 모든 협업자가 볼 수 있는 master 브랜치로 병합할 수 있다. 
 
-![gitstatus](C:\git\kksj216.github.io\assets\img\gitimage\gitstatus.png)
+![gitstatus.png](C:\git\kksj216.github.io\assets\img\gitimage\gitstatus.png)
 
 ![gitstatus](C:\git\kksj216.github.io\assets\img\gitimage\gitstatus.png)
 
