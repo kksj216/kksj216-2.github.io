@@ -77,11 +77,11 @@ Github은 Git을 사용하는 프로젝트를 지원하는 웹호스팅 서비�
   - __git diff --staged__: staging area에 있는 파일과 commit되어 있는 파일을 비교한다. _[ staging area : commited ]_
 - __git reset (file)__: staged 되어 있는 파일을 unstage시킨다.  _[ staged -> unstaged ]_
 
-![gitreset](../assets/img/gitimage/gitreset.PNG)
+![gitreset](/assets/img/gitimage/gitreset.PNG)
 
 - __git checkout (file)__: working directory에서 파일을 변경했던 것을 commited 파일로 되돌려준다. checkout하고나면 working directory에서 변경했던 것은 다시 가져올 수 없다. _[ commited -> working directory ]_
 
-![gitcheckout](../assets/img/gitimage/gitcheckout.PNG)
+![gitcheckout](/assets/img/gitimage/gitcheckout.PNG)
 
 - __git branch branch_name__ : 여러 협업자와 작업하고 자신만의 변경을 원할 때 이 명령어로 새로운 branch를 만들고 자신만의 변경사항과 파일 추가 등의 commit 타임라인을 만든다. 
 
