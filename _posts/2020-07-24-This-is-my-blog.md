@@ -1,13 +1,10 @@
 ---
 
 layout: post 
-
 title: Test  Post
-
 feature: "assets/img/mount.jpg"
-
-tags: [Test]
-
+tags: [Test, git]
+author: Sujin KWon
 ---
 
 # First Post 
