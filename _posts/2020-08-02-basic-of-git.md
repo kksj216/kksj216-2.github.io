@@ -1,4 +1,4 @@
-'''
+---
 
 layout: post
 
@@ -8,7 +8,7 @@ feature-img: "assets/img/git.png"
 
 tags: [git]
 
-'''
+---
 
 # git이 뭘까? 
 
