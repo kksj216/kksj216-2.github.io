@@ -15,7 +15,7 @@ Compile, Link, build static library, Make file에 대해서 정리한다.
 
 ## Build Process
 
-Build process는 __소스코드로 시작해서 실행파일로 끝나는 것__을 말한다.
+Build process는 소스코드로 시작해서 실행파일로 끝나는 것을 말한다.
 
 `Source Code` ---__complie__---> `Object files` ---__link__---> `Executable`
 
@@ -66,11 +66,11 @@ $ g++ -c sort.cpp print_list.cpp -I../include -L../lib -lsort -o sort
 
  소스코드 파일들이 여러 개가 있다고 생각해보자. 여러개의 파일들 중에서 _하나만_ 변경된 경우, 그 하나의 파일을 위해서 변경사항이 없는 소스코드 파일들까지 __전부 다__ 다시 컴파일을 한다. 이것은 브루트 포스 방법이고 비효율적인 것으로 보인다. 
 
-![build1](..\assets\img\ds\build1.PNG)
+![build1](../assets/img/ds/build1.PNG)
 
 마지막 빌드 이후로 하나의 소스 코드 파일만 변경된 경우에 다시 빌드할 때, 사실상 변경된 파일만을 다시 컴파일하면 된다. 변경되지 않은 파일들까지 다시 컴파일하지 않고!! 이전 빌드의 변경되지 않은 Object file을 사용하면 전체 빌드 시간들 줄일 수 있다! 
 
-![build2](..\assets\img\ds\build2.PNG)
+![build2](../assets/img/ds/build2.PNG)
 
 <br>
 
@@ -135,7 +135,7 @@ target: dependencies     // dependencies는 target을 만드는데 필요한 파
 Source files: quicksort.cpp  /  print_list.cpp
 Executable: qsort.exe
 
-```C++
+```makefile
 qsort: quicksort.o print_list.o
 	g++ quicksort.o print_list.o -o qsort
 
@@ -188,9 +188,7 @@ clean:
 
 `$*` : wildcard (or any number of characters)
 
-`%` : make a pattern that we want to watch in both the target and the dependency 
-
-​	(약간 for루프 같은거)
+`%` : make a pattern that we want to watch in both the target and the dependency (약간 for루프 같은거)
 
 <br>
 
