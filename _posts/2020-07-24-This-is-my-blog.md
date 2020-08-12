@@ -2,8 +2,7 @@
 
 layout: post 
 title: Test  Post
-feature: "assets/img/mount.jpg"
-tags: [Test, git]
+feature: "/assets/img/mount.jpg"
 author: kksj216
 excerpt_separator: <!--more-->
 ---
