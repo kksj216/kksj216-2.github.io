@@ -6,6 +6,7 @@ title: Fork한 저장소를 원본 저장소와 동기화하기
 tags: [git]
 
 color: rgb(204,153,153)
+author: sujin
 ---
 
 
