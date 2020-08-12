@@ -6,13 +6,9 @@ feature-img: "assets/img/pexels/circuit.jpeg"
 tags: [About, Archive]
 ---
 
-Hello! This is SJKwon's github blog. 
+## HGU CSEE 19
 
-Hello! 
+### Hello! SJKwon's github blog 
 
-HGU CSEE UG19
-
-개인 공부 정리 블로그 입니다.
-
-
+### 개인 공부 정리 블로그 입니다. 
 
