@@ -2,14 +2,12 @@
 layout: post
 title: <DS> Build Process 
 tags: [DS]
-
+color: blue
 ---
 
 
 
-# Build Process
-
-Compile, Link, build static library, Make file에 대해서 정리한다.
+Compile, Link, Build static library 그리고 Make file에 대해서 정리한다.
 
 <br>
 
@@ -82,8 +80,9 @@ $ g++ -c sort.cpp print_list.cpp -I../include -L../lib -lsort -o sort
 
 - __Naming convention:__ `lib`로 시작해서 `.a`로 끝나게 해야 한다.
 - `ar` 명령어를 사용해서 object file로 부터 archive file이 만들어질 수 있다. 
-  - ex) `$ ar cr libsort.a bubble.o insertion.o quicksort.o selection.o`
-
+  
+- ex) `$ ar cr libsort.a bubble.o insertion.o quicksort.o selection.o`
+  
 - __ar 옵션__ 
 
   - `-c` : Create an archive file
