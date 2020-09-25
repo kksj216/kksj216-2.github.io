@@ -20,7 +20,7 @@ Responsive web에 대해서 간단한 정리
 
 ## viewport 
 
-디바이스 화면에서 보여지는 영역이다. Desktop 사용자를 위해 만든 페이지의 크기는 mobile디바이스 화면에 안맞을 수 있다. 디바이스마다 다른 wiewport를 제어할 수 있는 방법으로, head태그안에 meta태그를 사용하는 것이다. 
+디바이스 화면에서 보여지는 영역이다. Desktop 사용자를 위해 만든 페이지의 크기는 mobile디바이스 화면에 안맞을 수 있다. 디바이스마다 다른 wiewport를 제어할 수 있는 방법으로, head태그안에 meta태그를 사용한다. 
 
 ```html
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
