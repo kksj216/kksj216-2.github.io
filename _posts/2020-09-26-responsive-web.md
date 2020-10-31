@@ -93,6 +93,4 @@ Responsive web에 대해서 간단한 정리
 
 <br>
 
-responsive web 만들기 실습 => 
-
-[responsive web]: http://hgusj.dothome.co.kr/lab4.html
+responsive web 만들기 실습 => [http://hgusj.dothome.co.kr/lab4.html](http://hgusj.dothome.co.kr/lab4.html)
