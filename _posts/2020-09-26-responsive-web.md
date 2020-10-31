@@ -53,11 +53,9 @@ Responsive web에 대해서 간단한 정리
 </style>
 ```
 
-![11](/assets/img/pp1/1.png)
+![1](/assets/img/pp1/1.png)
 
-
-
-![22](/assets/img/pp1/2.png)
+![2](/assets/img/pp1/2.png)
 
 <br>
 
@@ -89,7 +87,7 @@ Responsive web에 대해서 간단한 정리
 </body>
 ```
 
-![33](/assets/img/pp1/3.png)
+![3](/assets/img/pp1/3.png)
 
 <br>
 
