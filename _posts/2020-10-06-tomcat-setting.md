@@ -2,7 +2,7 @@
 
 layout: post
 title: Tomcat 개발환경설정 (Mac)
-tags: [web] [Mac]
+tags: [web]
 color: rgb(204, 204, 255)
 
 ---
