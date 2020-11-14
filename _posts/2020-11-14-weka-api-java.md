@@ -22,7 +22,7 @@ java에서 weka를 사용하기 위한 방법을 정리한다.
 
 ![weka](/assets/img/tip/weka1.png)
 
-1. [https://waikato.github.io/weka-wiki/downloading_weka/]: https://waikato.github.io/weka-wiki/downloading_weka/
+1. [https://waikato.github.io/weka-wiki/downloading_weka/]: https://waikato.github.io/weka-wiki/downloading_weka/	"https://waikato.github.io/weka-wiki/downloading_weka/"
 
    에서 OS에 맞는 weka.jar 파일을 다운로드 받는다.
 
