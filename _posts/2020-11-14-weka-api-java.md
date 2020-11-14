@@ -20,7 +20,7 @@ java에서 weka를 사용하기 위한 방법을 정리한다.
 
 자바 프로젝트에 WEKA 라이브러리를 추가한다. 
 
-![git](/assets/img/tip/weka1.png)
+![weka](/assets/img/tip/weka1.png)
 
 1. [https://waikato.github.io/weka-wiki/downloading_weka/]: https://waikato.github.io/weka-wiki/downloading_weka/
 
